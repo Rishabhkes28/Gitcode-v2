@@ -1,26 +1,23 @@
 <div align="center">
     <img src="https://github.com/manazpr/gitpaid-app/assets/12442269/b93b4592-fd7e-4906-9c34-ca40b3fed3b8" alt="gitpaid-logo">
-    <h1>GitPaid</h1>
-    <strong>Tech stack: Next.js 13, React, Tailwind, Polygon, Chainlink</strong>
+    <h1>Gitode-v2</h1>
+    <strong>Tech stack: Next.js 13, React, Tailwind, ICP, Chainlink</strong>
 </div>
 <br>
 <div align="center">
     <a href="">
         <img src="https://therealsujitk-vercel-badge.vercel.app/?app=gitpaid-app-manazpr" alt="Vercel">
     </a>
-    <a href="">
-        <img src="https://deepsource.io/gh/manazpr/gitpaid-app.svg/?label=active+issues&show_trend=true" alt="GitHub actions">
-    </a>
      <a href="https://gitpod.io/#">
         <img src="https://img.shields.io/badge/setup-automated-blue?logo=gitpod" alt="Gitpod">
     </a>
-     <a href="https://twitter.com/Sahbhargav">
-        <img src="https://img.shields.io/twitter/follow/Kush?style=social" alt="Kush sah Twitter">
+     <a href="https://twitter.com/Aditya04183">
+        <img src="https://img.shields.io/twitter/follow/Aditya04183?style=social" alt="Aaditya Singh Twitter">
     </a>
 </div>
 <div align="center">
     <br>
-    <a href=""><b>Visit »</b></a>
+    <a href="https://www.adityasingh.live/"><b>Visit »</b></a>
     <br>
    
 </div>
