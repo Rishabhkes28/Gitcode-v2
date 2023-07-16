@@ -22,9 +22,9 @@ export default function ContactMe() {
                     <dd>
                       <a
                         className="font-semibold text-green-600"
-                        href="mailto:aditya.singh456m@gmail.com"
+                        href="mailto:rishabhkeshari10@gmail.com"
                       >
-                        aditya.singh456m@gmail.com
+                        rishabhkeshari10@gmail.com
                       </a>
                     </dd>
                   </div>
@@ -37,11 +37,11 @@ export default function ContactMe() {
                     <dd>
                       <a
                         className="font-semibold text-green-600"
-                        href="https://twitter.com/RISHABH92156980"
+                        href="https://twitter.com/RishabhKes22527"
                         target="_blank"
                         rel="noreferrer"
                       >
-                        @RISHABH92156980
+                        @RishabhKes22527
                       </a>
                     </dd>
                   </div>
@@ -54,11 +54,11 @@ export default function ContactMe() {
                     <dd>
                       <a
                         className="font-semibold text-green-600"
-                        href="https://github.com/AdityaCubicles45"
+                        href="https://github.com/Rishabhkes28"
                         target="_blank"
                         rel="noreferrer"
                       >
-                        AdityaCubicles45
+                        Rishabhkes28
                       </a>
                     </dd>
                   </div>
@@ -71,11 +71,11 @@ export default function ContactMe() {
                     <dd>
                       <a
                         className="font-semibold text-green-600"
-                        href="https://www.linkedin.com/in/meet-parekh-devloper/"
+                        href="https://www.linkedin.com/in/rishabh-keshari-4209431b9/"
                         target="_blank"
                         rel="noreferrer"
                       >
-                        Meet Parekh
+                        Rishabh Keshari 
                       </a>
                     </dd>
                   </div>
