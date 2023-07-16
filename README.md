@@ -4,6 +4,9 @@
 </div>
 <br>
 <div align="center">
+    <a href="">
+        <img src="https://therealsujitk-vercel-badge.vercel.app/?app=gitcode-v2-six" alt="Vercel">
+    </a>
      <a href="https://gitpod.io/#">
         <img src="https://img.shields.io/badge/setup-automated-blue?logo=gitpod" alt="Gitpod">
     </a>
